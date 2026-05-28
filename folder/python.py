@@ -1,2 +1,2 @@
-print("I'm User2")
+print("")
 
